@@ -8,6 +8,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 4) Passing props down the component tree
 5) Defining class methods, updating state
 
+Other stuff we'll need along the way ...
+* React dev tools
+* Chrome debugger (breakpoints especially)
+* Watch out for `this` binding in methods
+
 ## Resources:
 
 We're building a real classic today: the Todo List!
