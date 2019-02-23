@@ -3,7 +3,13 @@ import './App.css';
 
 class App extends Component {
   state = {
-    todos: [],
+    todos: [
+      'Aerate burlap sacks',
+      'Bathe the horses',
+      "Brush cousin's teeth",
+      'Sharpen masonry bits',
+      'Eat leftover salmon',
+    ],
     writing: false,
     newTodo: '',
   };
