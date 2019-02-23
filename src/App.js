@@ -17,8 +17,11 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Hai frands!
           </a>
+          <span role="img" aria-label="wave">
+            👋
+          </span>
         </header>
       </div>
     );
